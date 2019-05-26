@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash -x
 
 gcc ../ini.c unittest.c -o unittest_multi
 ./unittest_multi > baseline_multi.txt

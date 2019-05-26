@@ -1,7 +1,7 @@
 // Example that shows simple usage of the INIReader class
 
 #include <iostream>
-#include "../cpp/INIReader.h"
+#include "../inireader.hpp"
 
 int main()
 {
